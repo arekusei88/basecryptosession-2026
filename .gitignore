@@ -1,0 +1,6 @@
+# Публикуется только результат: отчёт PDF и README. Лекции (materials/),
+# сборщик и исходники отчёта (report/) остаются локально.
+/*
+!/.gitignore
+!/README.md
+!/session_assignment_report.pdf
